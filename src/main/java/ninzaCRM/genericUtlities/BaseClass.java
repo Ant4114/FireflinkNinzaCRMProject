@@ -20,7 +20,8 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import ninzaCRM.objectRepository.DashBoardPage;
 import ninzaCRM.objectRepository.LoginPage;
 
-public class BaseClass {
+public class BaseClass 
+{
 	public FileUtility futill = new FileUtility();
 	public JavaUtility jutill = new JavaUtility();
 	public WebdriverUtlity wutill= new WebdriverUtlity();
