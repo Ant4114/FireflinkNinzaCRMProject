@@ -5,6 +5,11 @@ import org.testng.annotations.Test;
 public class ReadDataFromCmdLine {
 	@Test
 	public void readData() {
+		
+		
+		System.out.println("commit and push");
+		
+		
 		String BROWSER = System.getProperty("browser");
 		System.out.println(BROWSER);
 		String UN = System.getProperty("username");
