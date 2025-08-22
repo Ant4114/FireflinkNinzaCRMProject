@@ -20,7 +20,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
  * This class consists of generic methods related to webdriver 
  * @author Antara Pal
  */
-public class WebdriverUtlity {
+public class WebdriverUtlity 
+{
 	/**
 	 * This method will maximize the window
 	 * @param driver
